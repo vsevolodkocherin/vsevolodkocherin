@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vsevolodkocherin
-- 👀 I’m interested in programming.
 - 🌱 I’m currently learning Python
 ...
 
